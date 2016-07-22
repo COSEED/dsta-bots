@@ -1,0 +1,6 @@
+redis
+cassandra-driver
+statsd
+tweepy
+celery[redis]
+requests
